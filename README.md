@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-this is my first repository. amazing!!!
+this is my first repository. amazings!!!
